@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hello World 1
 THIS IS MY MAIN BRANCH !
 THIS IS THE MASTER BRANCH !!
+=======
+  Hello World !!
+ THIS IS MY BRACNH!!
+>>>>>>> HiBranch
